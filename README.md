@@ -13,6 +13,12 @@
 * The real-time price elasticity of electricity [Source](https://www.sciencedirect.com/science/article/pii/S0140988306001010#:~:text=The%20real%2Dtime%20price%20elasticity%20of%20electricity%20contains%20important%20information,the%20volatility%20of%20peak%20prices.&text=We%20find%20a%20low%20value,observe%20the%20spot%20market%20price.)
 * Using Big Data to Estimate Consumer Surplus: The Case of Uber [Source](http://www.datascienceassn.org/sites/default/files/Using%20Big%20Data%20to%20Estimate%20Consumer%20Surplus%20at%20Uber.pdf)
 
+### Focus on demand response
+* Evaluating Pricing Strategy Using e-Commerce Data: Evidence and Estimation Challenges [PDF](https://arxiv.org/pdf/math/0609170.pdf)
+* Learning Price-Elasticity of Smart Consumers in Power Distribution Systems [PDF](https://arxiv.org/pdf/1209.5656.pdf)
+* Towards the Interactive Effects of Demand Response Participation on Electricity Spot Market Price [PDF](https://arxiv.org/pdf/1608.06204.pdf)
+* Heterogeneity in Demand and Oprimal Price Conditioning for Local Rail Transportation [PDF](https://arxiv.org/pdf/1905.12859.pdf)
+
 ## Nested/Logit models
 * Multiproduct Price Optimization and Competition Under the Nested Logit Model with Product-Differentiated Price Sensitivities [Source](https://pubsonline.informs.org/doi/abs/10.1287/opre.2013.1249)
 * A fractional programming approach for retail category price optimization [Source](https://link.springer.com/article/10.1007/s10898-009-9491-2)
